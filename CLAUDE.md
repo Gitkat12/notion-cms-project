@@ -277,3 +277,14 @@ npm run format  # prettier 실행 (설정되어 있으면)
 - [Tailwind CSS v4](https://tailwindcss.com/docs)
 - [shadcn/ui 컴포넌트](https://ui.shadcn.com)
 - [Sonner 토스트](https://sonner.emilkowal.ski/)
+
+## Project Context
+
+이 프로젝트는 Notion을 CMS로 활용한 개인 기술 블로그 플랫폼입니다.
+
+- **PRD 문서**: @docs/PRD.md
+- **개발 로드맵**: @docs/ROADMAP.md
+
+## Task Master AI Instructions
+**Import Task Master's development workflow commands and guidelines, treat as if import is in the main CLAUDE.md file.**
+@./.taskmaster/CLAUDE.md
