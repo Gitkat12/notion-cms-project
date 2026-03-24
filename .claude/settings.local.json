@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Websearch",
+      "WebFetch",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn:*)",
+      "Bash(grep -l \"createContext\" D:/develop/workspace/claude-nextjs-starters/components/ui/*.tsx)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(pkill -f \"npm run dev\")",
+      "Bash(xargs -r kill)",
+      "Bash(curl -s http://localhost:3001)",
+      "Bash(curl -s -I http://localhost:3001)",
+      "Bash(curl -s -I http://localhost:3001/dashboard)",
+      "Bash(curl -s http://localhost:3001/dashboard)",
+      "Bash(curl -s -I http://localhost:3001/dashboard/settings)",
+      "Bash(curl -s http://localhost:3001/dashboard/settings)",
+      "Bash(curl -s -I http://localhost:3002/dashboard/settings)",
+      "Bash(npm run:*)",
+      "Skill(update-config)"
+    ]
+  }
+}
